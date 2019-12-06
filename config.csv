@@ -1,0 +1,2 @@
+nEpochs,batch_size,nHistCount,nColModel,use_V,use_W,use_X,use_Y
+3500,10,1,4,1,1,1,1
